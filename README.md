@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Arav%20Kumar%20Singh&fontSize=60&fontAlignY=35&animation=twinkling&desc=🚀%20Full%20Stack%20Developer%20•%20Tech%20Enthusiast%20•%20Problem%20Solver%20🔥&descSize=20&descAlignY=55"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+💻;Open+Source+Contributor+🌍;LeetCode+Problem+Solver+🧠;Lifelong+Learner+📚;Turning+Ideas+Into+Reality+⚡;Code.+Create.+Innovate.+✨;Building+The+Future+With+Tech+💡)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+💻;Open+Source+Contributor+🌍;LeetCode+Problem+Solver+🧠;Lifelong+Learner+📚;Turning+Ideas+Into+Reality+⚡;Code.+Create.+Innovate.+✨;Building+The+Future+With+Tech+💡" alt="Typing SVG" />
 
 </div>
 
@@ -149,6 +149,7 @@ Leveling up my skills, one certificate at a time! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arav-kumar-singh-baa1a92b3/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aravk18)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/arav1701/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aravkumar1701@gmail.com)
 
 ---
 
@@ -220,7 +221,7 @@ Leveling up my skills, one certificate at a time! 🚀
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Ready+To+Innovate+🚀;Open+For+Collaborations+🤝;Let's+Build+The+Future+Together+🌟)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=600&lines=Ready+To+Innovate+🚀;Open+For+Collaborations+🤝;Let's+Build+The+Future+Together+🌟" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&theme=radical&animation=twinkling"/>
 
